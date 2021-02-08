@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import cat from '../Assets/cat.png'
+import cat from '../../Assets/cat.png'
 
 
 const Cat = ({ coordinats }) => {
